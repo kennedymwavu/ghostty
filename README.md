@@ -1,3 +1,3 @@
 # my ghostty config
 
-clone to `~/.config/`.
+place in `~/.config/`
